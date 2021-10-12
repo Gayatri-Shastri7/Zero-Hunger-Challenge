@@ -18,12 +18,12 @@
    Maximum Accuracy is around 99.99603365232768 % using XGBoost Model
 ```
 **Data Visualization with Tableau **
-```
+
 https://public.tableau.com/app/profile/daripalli.aparna
 
 
 <h3>Google Drive Link:</h3>
-** Video Link **
+**Video Link**
 https://drive.google.com/file/d/1Xd9IjT5nlv_eKChUHe5xxUthJvdsUoMg/view?usp=sharing
 
 <h2>TEAM: Hackatoons</h2>
