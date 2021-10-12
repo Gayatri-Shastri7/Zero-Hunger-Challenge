@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1Xd9IjT5nlv_eKChUHe5xxUthJvdsUoMg/view?usp=shari
 
 <h2>TEAM: Hackatoons</h2>
 <h2>Team Members:</h2>
-<h3>Gayatri Shastri
-    Satwika Muduganti
-    Aparna Daripali
+<h3>Gayatri Shastri<br>
+    Satwika Muduganti<br>
+    Aparna Daripali<br>
     Sravya Amaranchela</h3>
