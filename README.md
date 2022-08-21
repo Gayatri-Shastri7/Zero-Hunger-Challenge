@@ -26,9 +26,3 @@ https://public.tableau.com/app/profile/daripalli.aparna
 **Video Link**
 https://drive.google.com/file/d/1Xd9IjT5nlv_eKChUHe5xxUthJvdsUoMg/view?usp=sharing
 
-<h2>TEAM: Hackatoons</h2>
-<h2>Team Members:</h2>
-<h3>Gayatri Shastri<br>
-    Satwika Muduganti<br>
-    Aparna Daripalli<br>
-    Sravya Amaranchela</h3>
